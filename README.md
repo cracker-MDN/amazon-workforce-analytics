@@ -190,7 +190,7 @@ nltk.download('stopwords')
 
 **MD Noornabi**
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/md-noornabi25/)
 - GitHub: [@cracker-MDN](https://github.com/cracker-MDN)
 
 ---
